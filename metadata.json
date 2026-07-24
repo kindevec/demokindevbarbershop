@@ -1,0 +1,6 @@
+{
+  "name": "Iron & Fade Barbershop",
+  "description": "Landing page moderna para Iron & Fade Barbershop, barbería urbana de alto nivel con reservas directas vía WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
